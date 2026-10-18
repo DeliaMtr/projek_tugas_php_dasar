@@ -50,8 +50,8 @@ if ($page == 'hasil') {
 <?php elseif ($page == 'hasil') : ?>
 
 <div class="container kecil">
-    <h2>Pesan Berhasil Dikirim</h2>
-    <p>Terima kasih, <?= $nama; ?>!</p>
+    <h2>Pesannya Berhasil</h2>
+    <p>Terima Kasih Yaa, <?= $nama; ?>!</p>
 
     <table class="info">
         <tr><td>Nama</td><td>: <?= $nama; ?></td></tr>
@@ -62,7 +62,7 @@ if ($page == 'hasil') {
     <br>
 
     <a class="btn-detail" href="index.php">
-        Kembali ke Halaman Utama
+        Back Sayang
     </a>
 </div>
 

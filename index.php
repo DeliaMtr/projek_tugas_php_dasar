@@ -1,7 +1,7 @@
 <?php
 $daftar_mahasiswa = [
     [
-        "nim" => "25001",
+        "nim" => "2501881",
         "nama" => "Delia Mutiara",
         "jurusan" => "Pendidikan Sistem dan Teknologi Informasi",
         "email" => "delia@upi.edu",
@@ -9,7 +9,7 @@ $daftar_mahasiswa = [
         "grade" => "A"
     ],
     [
-        "nim" => "25002",
+        "nim" => "2502197",
         "nama" => "Zahra Apriyani Sanjaya",
         "jurusan" => "Mekatronika",
         "email" => "april@upi.edu",
@@ -17,7 +17,7 @@ $daftar_mahasiswa = [
         "grade" => "A"
     ],
     [
-        "nim" => "25003",
+        "nim" => "2502851",
         "nama" => "Fatia Nuri Ramdani",
         "jurusan" => "Mekatronika dan Kecerdasan Buatan",
         "email" => "fatia@upi.edu",
@@ -25,7 +25,7 @@ $daftar_mahasiswa = [
         "grade" => "A"
     ],
     [
-        "nim" => "25004",
+        "nim" => "2502018",
         "nama" => "Salma Ashilah",
         "jurusan" => "Pendidikan Sistem dan Teknologi Informasi",
         "email" => "salma@upi.edu",
@@ -138,7 +138,7 @@ if ($page == 'hasil') {
     <br>
 
     <a class="btn-detail" href="index.php?page=form">
-        Isi Form Pesan
+        Diisi yaaa
     </a>
 </div>
 

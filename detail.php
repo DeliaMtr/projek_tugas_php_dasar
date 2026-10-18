@@ -32,7 +32,7 @@ $status  = $_GET['status'];
 
 <div class="container kecil">
     <h2>Detail Mahasiswa</h2>
-    <p>Data diterima melalui request method GET</p>
+    <p>Alhamdulillah udah ke data yaa sayang</p>
 
     <table class="info">
         <tr><td>NIM</td><td>: <?= $nim; ?></td></tr>

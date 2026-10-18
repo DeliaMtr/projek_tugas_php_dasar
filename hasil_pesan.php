@@ -24,8 +24,8 @@ $pesan = $_POST['pesan'];
 </head>
 
 <div class="container kecil">
-    <h2>Pesan Berhasil Dikirim</h2>
-    <p>Terima kasih, <?= htmlspecialchars($nama); ?>!</p>
+    <h2>Pesannya Berhasil Yaa</h2>
+    <p>makasii sayang <?= htmlspecialchars($nama); ?>!</p>
 
     <table class="info">
         <tr>
